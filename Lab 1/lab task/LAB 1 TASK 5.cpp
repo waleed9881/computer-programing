@@ -1,7 +1,7 @@
-// Name: Abdul Ahad
-// Department: Electrical Engineering (AI)
-// Registration No: BF25NWELE0692
-// Section: B
+// Name:Muhammad Waleed Javed
+// Department: Electrical Engineering (power)
+// Registration No: BF25NWELE0749
+// Section: A
 
 
 
@@ -17,4 +17,5 @@ int main() // it is sttarting point of program
     cout << "I am programming enthusiast!";
     return 0;   // indicate that program ended successfully
     } // end function main
+
 
