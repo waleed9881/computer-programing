@@ -1,7 +1,7 @@
-// Name: Abdul Ahad
-// Department: Electrical Engineering (AI)
-// Registration No: BF25NWELE0692
-// Section: B
+// Name:Muhammad Waleed Javed
+// Department: Electrical Engineering (power)
+// Registration No: BF25NWELE0749
+// Section: A
 
 
 #include <iostream>
@@ -23,3 +23,4 @@ cout<<num<< " is not in range of 0 to 100";
 
 return 0;
 }
+
