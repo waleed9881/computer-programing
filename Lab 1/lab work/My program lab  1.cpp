@@ -1,7 +1,7 @@
-// Name: Abdul Ahad
-// Department: Electrical Engineering (AI)
-// Registration No: BF25NWELE0692
-// Section: B
+// Name:Muhammad Waleed Javed
+// Department: Electrical Engineering (power)
+// Registration No: BF25NWELE0749
+// Section: A
 
 
 #include <iostream>
@@ -25,6 +25,7 @@ cout<<n<<endl<<o<<endl<<asdf<<endl<<p<<endl;
 	
 	
 	
+
 
 
 
