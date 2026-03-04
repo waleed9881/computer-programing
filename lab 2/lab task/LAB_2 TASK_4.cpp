@@ -1,9 +1,7 @@
-// Name: Abdul Ahad
-// Department: Electrical Engineering (AI)
-// Registration No: BF25NWELE0692
-// Section: B
-
-
+// Name:Muhammad Waleed Javed
+// Department: Electrical Engineering (power)
+// Registration No: BF25NWELE0749
+// Section: A
 
 #include <iostream>   
 using namespace std;  // standard nam cin aur cout use krny k liye
@@ -17,3 +15,4 @@ int main()
 
     return 0;  
 }
+
