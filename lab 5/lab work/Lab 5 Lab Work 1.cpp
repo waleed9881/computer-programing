@@ -1,6 +1,6 @@
-// Name: Shahzad faisal
+// Name: M. Waleed Javed
 // Department: Electrical Engineering (Power)
-// Registration No: BF25NWELE0733
+// Registration No: BF25NWELE0749
 // Section: A
 
 #include <iostream>     // Library used for input and output
