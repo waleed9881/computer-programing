@@ -1,7 +1,8 @@
-// Name: M.Younas Khan
+// Name: M. Waleed Javed
 // Department: Electrical Engineering (Power)
-// Registration No: BF25NWELE0741
+// Registration No: BF25NWELE0749
 // Section: A
+
 #include <iostream>
 using namespace std;
 
