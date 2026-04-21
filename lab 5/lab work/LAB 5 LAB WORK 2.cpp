@@ -16,7 +16,7 @@ int main()
         i++;
     }
     while(i <= 10);
-
+                      // we uses the while loop 
     return 0;
 }
 
