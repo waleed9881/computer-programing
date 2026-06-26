@@ -1,4 +1,8 @@
 
+// Name:Muhammad Waleed Javed
+// Department: Electrical Engineering (power)
+// Registration No: BF25NWELE0749
+// Section: A
 
 #include <iostream>
 using namespace std;
